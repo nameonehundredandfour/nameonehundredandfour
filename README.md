@@ -1,3 +1,2 @@
-Your friendly neighborhood programmer.
 
 
